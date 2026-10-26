@@ -1,0 +1,5 @@
+id,name,model_id,group_id/id,operation,domain
+access_demo_data,demo.data.user,demo.data,base.group_user,crud,
+access_api_key,api.key.user,api.key,base.group_user,crud,
+access_create_company_wizard,demo.data.wizard.user,demo.data.wizard,base.group_user,crud,
+access_module_load_action,module.load.action.user,module.load.action,base.group_user,crud,
